@@ -25,7 +25,7 @@ import prea.util.EvaluationMetrics;
  * used as the basis for recommendations.
  * 
  * @author Joseph Korpela
- * @since 2013. 2. 16
+ * @since 2013. 2. 17
  * @version 0.1
  */
 public class TafengSVD implements Recommender {

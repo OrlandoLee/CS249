@@ -1,4 +1,3 @@
-Orlando
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -19,7 +18,7 @@ import prea.util.Printer;
 
 /**
  * This is an One-class Collaborative Filtering Test main file.
- * Joe
+ * Joe was here
  * @author Joonseok Lee
  * @since 2011. 7. 12
  * @version 20110712

@@ -19,7 +19,7 @@ import prea.util.Printer;
 
 /**
  * This is an One-class Collaborative Filtering Test main file.
- * 
+ * Joe
  * @author Joonseok Lee
  * @since 2011. 7. 12
  * @version 20110712
